@@ -139,4 +139,8 @@
     color: #242424;
     transition: 250ms;
   }
+  .nav-item{
+    height: 80px;
+  }
+ 
 }
